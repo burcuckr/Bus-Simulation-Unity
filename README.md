@@ -60,7 +60,8 @@ The main purpose of this project was to practice fundamental Unity concepts, wor
 
 ### Bus Simulation – Gameplay
 
-<img width="1088" height="664" alt="Ekran görüntüsü 2026-11-16 133320" src="https://github.com/user-attachments/assets/34cbeb8d-d200-49b0-9027-7f7bc8f84139" />
+<img width="1088" height="664" alt="Ekran görüntüsü 2026-11-16 133320" src="https://github.com/user-attachments/assets/6ef229a2-ffcc-4d23-8d9c-bfc2976822db" />
+
 
 ## 🎨 Third-Party Assets
 
