@@ -107,3 +107,23 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+# IDE settings
+.vscode/
+
+# Third-party licensed assets
+/Assets/CityPeople_Free/
+/Assets/CityPeople_Free.meta
+/Assets/DenysAlmaral/
+/Assets/DenysAlmaral.meta
+/Assets/SimplePoly City - Low Poly Assets/
+/Assets/SimplePoly City - Low Poly Assets.meta
+
+# Excluded scenes and tutorial files
+/Assets/Scenes/
+/Assets/Scenes.meta
+/Assets/TutorialInfo/
+/Assets/TutorialInfo.meta
+
+# Operating system files
+.DS_Store
+Thumbs.db
